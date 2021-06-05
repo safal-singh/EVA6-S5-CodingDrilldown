@@ -1,6 +1,6 @@
 # EVA6-S5-CodingDrilldown
 
-Code 1
+##Code 1
 Target - Achieve basic model skeleton with <10000 parameters.
 
 Results -
@@ -13,7 +13,7 @@ Analysis -
 
 
 
-Code 2
+##Code 2
 Target - Reduce overfitting by adding regularization and increase validation accuracy.
 
 Results -
@@ -27,7 +27,7 @@ Analysis -
 
 
 
-Code 3
+##Code 3
 Target - Add augmentation to further increase validation accuracy.
 
 Results -
